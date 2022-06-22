@@ -1,5 +1,5 @@
 # CO M21 Assignment
- repository for Computer Organization, Monsoon 2021 semester, assignment at IIITD
+ Repository for Computer Organization, Monsoon 2021 semester, assignment at IIITD
 
 ## How to evaluate
 * Go to the `automatedTesting` directory and execute the `run` file with appropiate options passed as arguments.
